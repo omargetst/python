@@ -1,4 +1,4 @@
 # python
-python exercise basic, medium and advanced
+Python exercises basic, medium, and advanced.
 
-This exercises are taken from https://retosdeprogramacion.com/ejercicios
+These exercises are taken from https://retosdeprogramacion.com/ejercicios
