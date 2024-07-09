@@ -10,8 +10,7 @@ try :
         else:
             break
       
-    residuo = 0
-    if number == 1:
+    if number == 2:
         print ("El número {} es un número primo " .format(number))
     else:
         for i in range (2, number):
