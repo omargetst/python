@@ -14,11 +14,10 @@ firststring = firststring.lower()
 scndstring = scndstring.lower()
 result = 1
 try :
-    for letter in firststring:
-        print (letter)
+    for letter in firststring:       
         if scndstring.index(letter):
             result += 1    
 
-    print("Es un Anagrama") if result == scdlngt else print("No es un anagrama")
+    print("La palabras forman un anagrama", ) if result == scdlngt else print("Las palabras no forman un anagrama")
 except ValueError:
-    print ("No es un anagrama")
+    print ("Las palabras no forman un anagrama")
